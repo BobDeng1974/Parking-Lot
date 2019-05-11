@@ -1,6 +1,6 @@
 *.vscode
 *data
-darknet/parking_lot/backup/*
+*.weights
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
